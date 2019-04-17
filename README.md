@@ -12,6 +12,7 @@ macOS
 3. Find the code ```export ZSH_THEME="small_diy_ys"``` to modify it
 ### Show
 * small_diy_ys
+
 ![image](https://github.com/Sokkam/terminal-diy-theme/blob/master/small_diy_ys/pic/diyys1.png)
 ![image](https://github.com/Sokkam/terminal-diy-theme/blob/master/small_diy_ys/pic/diyys2.png)
 ### License
